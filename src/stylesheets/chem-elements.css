@@ -14,12 +14,12 @@
 }
 
 
-.chem-element[data-element="neon"]::before {
-    content: '10';
+.chem-element[data-element="rhenium"]::before {
+    content: '75';
     font-size: 0.45em;
     vertical-align: -0.5em;
 }
 
-.chem-element[data-element="neon"]:hover {
+.chem-element[data-element="rhenium"]:hover {
     background: #faa3a3;
 }
