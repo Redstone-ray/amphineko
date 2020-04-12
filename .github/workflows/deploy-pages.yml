@@ -22,7 +22,7 @@ jobs:
 
     - name: Invoke Deployment
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ f27ec0d8d27d0289c1d0e0ca85c1530d57da6df1 }}
         BRANCH: gh-pages
         FOLDER: dist
       uses: JamesIves/github-pages-deploy-action@3.2.1
