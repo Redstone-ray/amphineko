@@ -1,9 +1,3 @@
-# ~/amphineko
-
-This repository is the repository of my homepage (https://futa.moe/amphineko/) that can be used as a template.
-
-Visit https://amphineko.github.io/amphineko/ for a live deployment of the `master` branch.
-
 Text contents are mainly located in `index.html`. Simply edit this file to replace the texts and the picture.
 
 For further modifications, including color settings, background images, and layouts, check `index.css` and `stylesheets/*.css`. Don't forget to run an `npm run build` to rebuild files and reflect your modification.
@@ -20,13 +14,13 @@ For further modifications, including color settings, background images, and layo
 
 ## warning
 
-This repository contains copyright content, including the profile picture `amphineko.png`, `badcable.png`, etc. These assets are specially licensed to the repository owner only.
+This repository contains copyright content, including the profile picture `ray.png`, etc. These assets are specially licensed to the repository owner only.
 
 You should replace these assets with your images, all of them, before deploying to your websites.
 
 ---
 
-请注意，本库中包含版权内容，包括 `amphineko.png`、`badcable.png` 等。这些图片都是特别而仅授权给本代码库拥有者使用的。
+请注意，本库中包含版权内容，包括 `ray.png` 等。这些图片都是特别而仅授权给本代码库拥有者使用的。
 
 你应该在部署到你的网站或分发之前，将这些所有的版权图片替换为你自己的图片。
 
